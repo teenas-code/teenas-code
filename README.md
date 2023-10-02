@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teenas-code
-- 
+- [my_pic](my_pic.jpg)
 - 👀 I’m interested in `Data Analysis, Bioinformatics, Machine learning, and exploring RNA and protein data to understand the underlying processes :)`
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
