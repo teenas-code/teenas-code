@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teenas-code
-- ![pic](https://github.com/teenas-code/teenas-code/blob/main/my_pic.jpg)
+- ![pic](https://github.com/teenas-code/teenas-code/blob/main/AdobeStock_392034541.jpeg)
 - 👀 I’m interested in `Data Analysis, Bioinformatics, Machine learning, and exploring RNA and protein data to understand the underlying processes :)`
 - 🌱 I’m currently learning working as an Intern at Takeda Pharmaceuticals 
 - 💞️ I’m looking for full time opportunities to apply my skills as a Bioinformatician
