@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @teenas-code
 - ![pic](https://github.com/teenas-code/teenas-code/blob/main/my_pic.jpg)
 - 👀 I’m interested in `Data Analysis, Bioinformatics, Machine learning, and exploring RNA and protein data to understand the underlying processes :)`
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning working as an Intern at Takeda Pharmaceuticals 
+- 💞️ I’m looking for full time opportunities to apply my skills as a Bioinformatician
+- 📫 How to reach me :mag_right:[Linkedin](https://www.linkedin.com/in/teena-dodeja/)
+				teenadodejaortho@gmail.com
 
 <!---
 teenas-code/teenas-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
